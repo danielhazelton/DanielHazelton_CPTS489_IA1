@@ -1,6 +1,6 @@
 //Start-up functions run when page is loaded.
 //1. Include the HTML snippets:
-includeHTML();
+//includeHTML();
 
 //Hide all pages except for Activity Feed, which is the start page.
 document.getElementById("schoolInfoDiv").style.display = "none";
